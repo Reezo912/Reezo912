@@ -10,7 +10,7 @@ All my work is **Open Source**. Feel free to explore, learn, or contribute.
 
 ## 🧠 What I'm working on
 
-- 🎮 Training agents to play classic games using **Reinforcement Learning** (PPO, CNN policies, frame stacking, etc.)
+- 🎮 Training agents to play classic games using **Reinforcement Learning** and **Computer Vision** inputs (PPO, CNN policies, frame stacking, etc.)
 - ✈️ Teaching drones autonomous navigation with vision-based inputs using **AirSim** and **RL**
 - 📊 Studying advanced topics in **Deep Learning**, **NLP**, and **Reinforcement Learning**
 
