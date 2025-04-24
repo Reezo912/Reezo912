@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Reezo
+## 👋 Hi, I'm Carlos
 
 Passionate about **Data Science** and **Machine Learning**, with a strong focus on **Reinforcement Learning**.
 
