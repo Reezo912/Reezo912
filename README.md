@@ -8,6 +8,13 @@ All my work is **Open Source**. Feel free to explore, learn, or contribute.
 
 ---
 
+## 📈 Proyectos Destacados
+
+- 🎮 Mario RL con PPO ([ver repo](https://github.com/tuusuario/proyecto-mario))
+- 🚦 Detección de señales de tráfico en tiempo real ([ver demo](https://tuweb.com))
+
+---
+
 ## 🧠 What I'm working on
 
 - 🎮 Training agents to play classic games using **Reinforcement Learning** with **Computer Vision** inputs (PPO, CNN policies, frame stacking, etc.)
@@ -26,3 +33,10 @@ All my work is **Open Source**. Feel free to explore, learn, or contribute.
 - **Libraries**: NumPy, pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit, TensorFlow, PyTorch, and Polars (learning)
 - **Reinforcement Learning**: OpenAI Gym, Stable-Baselines3 — especially PPO ❤️
 - **Tools**: TensorBoard, Jupyter, VSCode, Git
+
+
+
+## 📫 Contacto
+
+- Email: tuemail@gmail.com
+- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
