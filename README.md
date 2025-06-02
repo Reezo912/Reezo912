@@ -12,8 +12,8 @@ All my work is **Open Source**. Feel free to explore, learn, or contribute.
 
 ## 📈 Proyectos Destacados
 
-- 🎮 Mario RL con PPO ([ver repo](https://github.com/tuusuario/proyecto-mario))
-- 🚦 Detección de señales de tráfico en tiempo real ([ver demo](https://tuweb.com))
+- 🎮 Mario RL con PPO ([ver repo](https://github.com/Reezo912/SuperMario-RL-PPO))
+- 🚦 Detección de señales de tráfico en tiempo real ([ver repo]([https://tuweb.com](https://github.com/Reezo912/Detector-Senales-Trafico)))
 
 ---
 
@@ -25,13 +25,31 @@ All my work is **Open Source**. Feel free to explore, learn, or contribute.
 
 ---
 
-## ⚙️ Current Tech Stack
+## ⚙️ Tech Stack
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🧪 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 📚 Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-1E88E5?style=for-the-badge&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-- **Libraries**: NumPy, pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit, TensorFlow, PyTorch, and Polars (learning)
-- **Reinforcement Learning**: OpenAI Gym, Stable-Baselines3 — especially PPO ❤️
-- **Tools**: TensorBoard, Jupyter, VSCode, Git
+![Polars](https://img.shields.io/badge/Polars-0072C6?style=for-the-badge&logoColor=white)
+
+### 🤖 Reinforcement Learning
+![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-FFB000?style=for-the-badge&logo=python&logoColor=white)
+![PPO](https://img.shields.io/badge/PPO-RL%20Agent-blueviolet?style=for-the-badge)
+
+### 🛠️ Tools
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
