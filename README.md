@@ -13,7 +13,7 @@ All my work is **Open Source**. Feel free to explore, learn, or contribute.
 ## 📈 Proyectos Destacados
 
 - 🎮 Mario RL con PPO ([ver repo](https://github.com/Reezo912/SuperMario-RL-PPO))
-- 🚦 Detección de señales de tráfico en tiempo real ([ver repo]([https://tuweb.com](https://github.com/Reezo912/Detector-Senales-Trafico)))
+- 🚦 Detección de señales de tráfico en tiempo real ([ver repo](https://tuweb.com](https://github.com/Reezo912/Detector-Senales-Trafico))
 
 ---
 
