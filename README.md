@@ -6,6 +6,8 @@ This GitHub is where I share my learning journey and personal projects — from 
 
 All my work is **Open Source**. Feel free to explore, learn, or contribute.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-lopez-de-lizaga/)
+
 ---
 
 ## 📈 Proyectos Destacados
@@ -33,10 +35,3 @@ All my work is **Open Source**. Feel free to explore, learn, or contribute.
 - **Libraries**: NumPy, pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit, TensorFlow, PyTorch, and Polars (learning)
 - **Reinforcement Learning**: OpenAI Gym, Stable-Baselines3 — especially PPO ❤️
 - **Tools**: TensorBoard, Jupyter, VSCode, Git
-
-
-
-## 📫 Contacto
-
-- Email: tuemail@gmail.com
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
