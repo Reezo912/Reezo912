@@ -6,7 +6,7 @@ This GitHub is where I share my learning journey and personal projects — from 
 
 All my work is **Open Source**. Feel free to explore, learn, or contribute.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-lopez-de-lizaga/)
+[![@LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-lopez-de-lizaga/)
 
 ---
 
