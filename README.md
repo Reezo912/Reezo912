@@ -41,12 +41,10 @@ All my work is **Open Source**. Feel free to explore, learn, or contribute.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-0072C6?style=for-the-badge&logoColor=white)
 
 ### 🤖 Reinforcement Learning
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-FFB000?style=for-the-badge&logo=python&logoColor=white)
-![PPO](https://img.shields.io/badge/PPO-RL%20Agent-blueviolet?style=for-the-badge)
 
 ### 🛠️ Tools
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white)
