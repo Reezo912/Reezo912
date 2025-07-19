@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Carlos
 
-Soy estudiante entusiasta de **Data Science y Machine Learning**, especializado en **Aprendizaje por Refuerzo** y aplicaciones prácticas de inteligencia artificial. Me encanta abordar proyectos desafiantes como entrenar agentes para jugar videojuegos y desarrollar aplicaciones en tiempo real con visión artificial.
+Soy un **Data Scientist**, con experiencia en análisis exploratorio, modelado predictivo, visualización de datos y aplicaciones prácticas de inteligencia artificial.
 
-Todo mi trabajo es de **código abierto**. ¡Siéntete libre de explorar, aprender o contribuir!
+Tengo un especial interés en Computer Visión y Reinforcement Learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/carlos-lopez-de-lizaga/)
 
@@ -10,17 +10,11 @@ Todo mi trabajo es de **código abierto**. ¡Siéntete libre de explorar, aprend
 
 ## 📈 Proyectos Destacados
 
-* 🎮 **Mario RL con PPO** – Agente de aprendizaje por refuerzo entrenado para jugar *Super Mario Bros* usando el algoritmo PPO y políticas CNN.
+* 🎮 **Mario RL con PPO** – Agente de aprendizaje por refuerzo entrenado para jugar *Super Mario Bros* usando el algoritmo PPO.
   ([Repositorio](https://github.com/Reezo912/SuperMario-RL-PPO))
 
-* 🚦 **Detección en tiempo real de señales de tráfico** – Modelo de visión artificial basado en YOLO para detectar señales de tráfico, con backend en Flask y dashboard interactivo en Plotly.
+* 🚦 **Detección en tiempo real de señales de tráfico** – Modelo de visión artificial basado en YOLO para detectar señales de tráfico, con backend en Flask.
   ([Repositorio](https://github.com/Reezo912/Detector-Senales-Trafico))
-
----
-
-## 🎬 Vista previa de proyectos
-
-*(Aquí podrías incluir un GIF animado o capturas de pantalla de tu mejor proyecto)*
 
 ---
 
