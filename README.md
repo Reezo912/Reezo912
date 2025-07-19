@@ -65,6 +65,6 @@ Tengo un especial interés en Computer Visión y Reinforcement Learning.
 
 ## 📊 Estadísticas de GitHub
 
+[![Codewars Badge](https://www.codewars.com/users/Reezo912/badges/large)](https://www.codewars.com/users/Reezo912)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reezo912\&show_icons=true\&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reezo912\&layout=compact\&theme=radical)
-[![Codewars Badge](https://www.codewars.com/users/Reezo912/badges/large)](https://www.codewars.com/users/Reezo912)
