@@ -5,8 +5,6 @@ Soy estudiante entusiasta de **Data Science y Machine Learning**, especializado 
 Todo mi trabajo es de **código abierto**. ¡Siéntete libre de explorar, aprender o contribuir!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/carlos-lopez-de-lizaga/)
-![Licencia](https://img.shields.io/badge/licencia-MIT-green)
-![Estado](https://img.shields.io/badge/estado-activo-brightgreen)
 
 ---
 
