@@ -20,7 +20,7 @@ Tengo un especial interés en Computer Visión y Reinforcement Learning.
 
 ## 🧠 Actualmente trabajando en
 
-* 🚩 **Predicción de Churn** – Desarrollo de un pipeline automatizado con análisis exploratorio (EDA), interfaz CLI y visualización interactiva (Dash/Plotly).
+* 🚩 **Predicción de Churn** – Proyecto de Churn utilizando KKBox, Polars y una interfaz interactiva con Plotly y Dash.
 * 🛠️ **Mi propia librería de regresión lineal (`MyOwnLinearRegression`)** – Ampliación con modelos Ridge, Lasso, ElasticNet y regresión polinómica desde cero.
 * 🏅 **Preparación para la certificación Google Professional ML Engineer** – Cursos especializados y proyectos personales enfocados en conceptos clave de Machine Learning.
 
