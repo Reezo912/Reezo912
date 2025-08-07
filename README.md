@@ -16,6 +16,9 @@ Tengo un especial interés en Computer Visión y Reinforcement Learning.
 * 🚦 **Detección en tiempo real de señales de tráfico** – Modelo de visión artificial basado en YOLO para detectar señales de tráfico, con backend en Flask.
   ([Repositorio](https://github.com/Reezo912/Detector-Senales-Trafico))
 
+* 📊 **Regression Models from Scratch** – Implementación desde cero en NumPy de algoritmos de regresión lineal y logística, con comparación frente a scikit-learn y enfoque educativo para entender los fundamentos matemáticos y computacionales.
+  ([Repositorio](https://github.com/Reezo912/Regression-Models-From-Scratch))
+
 ---
 
 ## 🧠 Actualmente trabajando en
