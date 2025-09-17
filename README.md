@@ -42,7 +42,7 @@ Tengo un especial interés en Computer Visión y Reinforcement Learning.
 
 ## ⚙️ Stack Técnico
 
-### �� Machine Learning & AI
+### 🤖 Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
