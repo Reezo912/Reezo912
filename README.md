@@ -17,7 +17,7 @@ Tengo un especial interés en Computer Visión y Reinforcement Learning.
 * 📊 **Regression Models from Scratch** – Implementación desde cero en NumPy de algoritmos de regresión lineal y logística, con comparación frente a scikit-learn y enfoque educativo para entender los fundamentos matemáticos y computacionales.
   ([Repositorio](https://github.com/Reezo912/Regression-Models-From-Scratch))
 
-* 🚦 **Prediccion de Churn** – Proyecto de machine learning para predecir el churn (cancelación de suscripciones) en el servicio de streaming musical KKBox. Implementa técnicas avanzadas de validación temporal y optimización de métricas específicas para problemas de clasificación desequilibrada.
+* 💼 **Prediccion de Churn** – Proyecto de machine learning para predecir el churn (cancelación de suscripciones) en el servicio de streaming musical KKBox. Implementa técnicas avanzadas de validación temporal y optimización de métricas específicas para problemas de clasificación desequilibrada.
   ([Repositorio](https://github.com/Reezo912/Churn-Prediction-KKBox))
   
 * 🚦 **Detección en tiempo real de señales de tráfico** – Modelo de visión artificial basado en YOLO para detectar señales de tráfico, con backend en Flask.
