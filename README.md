@@ -77,8 +77,7 @@ Tengo un especial interés en Computer Visión y Reinforcement Learning.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reezo912&show_icons=true&theme=radical&hide_border=true&count_private=true) 
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reezo912&theme=radical)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reezo912&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Reezo912&theme=radical&hide_border=true)
