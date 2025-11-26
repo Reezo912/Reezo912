@@ -75,11 +75,9 @@ Tengo un especial interés en Computer Visión y Reinforcement Learning.
 
 [![Codewars Badge](https://www.codewars.com/users/Reezo912/badges/large)](https://www.codewars.com/users/Reezo912)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reezo912&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reezo912&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Reezo912&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Streak) 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reezo912&theme=radical" alt="GitHub Stats" />
+</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Reezo912&color=blueviolet&style=flat-square)](https://github.com/Reezo912)
 
