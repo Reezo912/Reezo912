@@ -1,79 +1,60 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</div>
+# Hi, I'm Carlos 👋
 
-# 👋 ¡Hola! Soy Carlos
+**AI Engineer focused on agentic systems, MCP, RAG and ML systems.**
 
-Soy un **Data Scientist**, con experiencia en análisis exploratorio, modelado predictivo, visualización de datos y aplicaciones prácticas de inteligencia artificial.
+My background is in data science, but my current work is centered on the systems around modern AI: tool use, retrieval, evaluation, orchestration and observability.
 
-Tengo un especial interés en Computer Visión y Reinforcement Learning.
+I enjoy building projects that force me to understand the mechanics, not just the API.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/carlos-lopez-de-lizaga/)
-
----
-
-## 📈 Proyectos Destacados
-
-* 📊 **Regression Models from Scratch** – Implementación desde cero en NumPy de algoritmos de regresión lineal y logística, con comparación frente a scikit-learn y enfoque educativo para entender los fundamentos matemáticos y computacionales.
-  ([Repositorio](https://github.com/Reezo912/Regression-Models-From-Scratch))
-
-* 💼 **Prediccion de Churn** – Proyecto de machine learning para predecir el churn (cancelación de suscripciones) en el servicio de streaming musical KKBox. Implementa técnicas avanzadas de validación temporal y optimización de métricas específicas para problemas de clasificación desequilibrada.
-  ([Repositorio](https://github.com/Reezo912/Churn-Prediction-KKBox))
-  
-* 🚦 **Detección en tiempo real de señales de tráfico** – Modelo de visión artificial basado en YOLO para detectar señales de tráfico, con backend en Flask.
-  ([Repositorio](https://github.com/Reezo912/Detector-Senales-Trafico))
-
-* 🎮 **Mario RL con PPO** – Agente de aprendizaje por refuerzo entrenado para jugar *Super Mario Bros* usando el algoritmo PPO.
-  ([Repositorio](https://github.com/Reezo912/SuperMario-RL-PPO))
-
-* ⚕️ **Deteccion de ictus** (Work in Progress) – Modelo XGBoost optimizado para predecir riesgo de accidente cerebrovascular. Implementa técnicas de balanceo y optimización de hiperparámetros para maximizar la detección de casos de riesgo, reduciendo falsos negativos en un dataset desbalanceado (4.9% casos positivos).
-  ([Repositorio](https://github.com/Reezo912/Stroke-Prediction))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20López%20de%20Lizaga-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-lopez-de-lizaga/)
+[![GitHub](https://img.shields.io/badge/GitHub-Reezo912-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reezo912)
 
 ---
 
-## 🧠 Actualmente trabajando en
+## Current Focus
 
-* 🛠️ **Ampliación de Regression Models from Scratch** – ElasticNet y regresión polinómica desde cero en NumPy.
-* ⚕️ **Optimización del modelo de Ictus** – Mejora de resultados mediante optimización de hiperparámetros y análisis de explicabilidad con SHAP.
-* 🏅 **Preparación para certificación Google Professional ML Engineer** – Cursos especializados y proyectos enfocados en conceptos clave de ML.
-
----
-
-## ⚙️ Stack Técnico
-
-### 🤖 Machine Learning & AI
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-FFB000?style=for-the-badge&logo=python&logoColor=white)
-
-### 📊 Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-0084FF?style=for-the-badge&logo=Polars&logoColor=Blue)
-![PySpark](https://img.shields.io/badge/PySpark-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-0084FF?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🛠️ Tools & Languages
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TensorBoard](https://img.shields.io/badge/TensorBoard-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- Building **MCP servers** and learning agent-tool interaction
+- Designing practical **agentic AI systems**
+- Working with **RAG**, vector databases and knowledge systems
+- Improving software engineering fundamentals for AI
+- Studying PyTorch, LLM internals and ML systems
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Featured Projects
 
-[![Codewars Badge](https://www.codewars.com/users/Reezo912/badges/large)](https://www.codewars.com/users/Reezo912)
+| Project | Area | What it shows |
+|---|---|---|
+| [MCP 0 to Hero](https://github.com/Reezo912/MCP-0-to-hero) | MCP / Agents | MCP servers, clients, tools, resources, prompts, transports, auth, HITL, testing and observability. |
+| [AI / ML Obsidian Vault](https://github.com/Reezo912/My-notes) | Knowledge Systems | Structured notes for AI, ML, NLP, RAG and agentic systems. |
+| [YOLO11 Traffic Sign Detection](https://github.com/Reezo912/YOLO11-for-Traffic-Signal-Detection-In-Real-Time) | Computer Vision | Real-time traffic sign detection with YOLO11s, OpenCV, Flask and Render deployment. |
+| [Super Mario RL PPO](https://github.com/Reezo912/SuperMario-RL-PPO) | Reinforcement Learning | PPO agent with CNN policy, frame stacking, reward shaping and TensorBoard monitoring. |
+| [Regression Models From Scratch](https://github.com/Reezo912/Regression-Models-From-Scratch) | ML Fundamentals | Linear and logistic regression implemented from scratch with NumPy. |
+| [Churn Prediction / Olist Study](https://github.com/Reezo912/Churn-Prediction) | Data Science | Viability study showing why Olist is not a valid churn dataset and what problems fit better. |
+
+---
+
+## Stack
+
+**AI Engineering / Agents**  
+`MCP` · `RAG` · `LangGraph` · `LangChain` · `OpenAI API` · `Qdrant` · `MongoDB`
+
+**ML Systems / Data**  
+`Python` · `NumPy` · `Pandas` · `Polars` · `Scikit-learn` · `XGBoost` · `PySpark` · `SQL`
+
+**Deep Learning / CV / RL**  
+`PyTorch` · `TensorFlow` · `OpenCV` · `YOLO` · `Stable-Baselines3` · `TensorBoard`
+
+**Development**  
+`Git` · `GitHub` · `Linux` · `Arch Linux` · `Neovim` · `Jupyter` · `C`
+
+---
+
+## Also Exploring
+
+`LLM internals` · `agent evaluation` · `MLflow` · `software engineering fundamentals` · `low-level programming`
+
+---
 
 <div align="center">
 
@@ -81,14 +62,4 @@ Tengo un especial interés en Computer Visión y Reinforcement Learning.
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Reezo912&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Reezo912&theme=radical&hide_border=true)
-
-</div>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Reezo912&color=blueviolet&style=flat-square)](https://github.com/Reezo912)
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
